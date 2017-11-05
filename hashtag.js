@@ -48,7 +48,7 @@ function getData() {
     write(query, finalOutput);
 
     // create CSV file
-    writeCSV(query, finalOutput);
+    writeCSV(query);
   });
 }
 

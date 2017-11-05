@@ -1,0 +1,31 @@
+{
+  "name": "twitter-hashtag",
+  "version": "1.0.0",
+  "description": "Create a JSON and CSV file from people using a hashtag.",
+  "main": "hashtag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanburgess/twitter-hashtag.git"
+  },
+  "keywords": [
+    "twitter",
+    "hashtag",
+    "search",
+    "json",
+    "csv"
+  ],
+  "author": "Ryan Burgess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanburgess/twitter-hashtag/issues"
+  },
+  "homepage": "https://github.com/ryanburgess/twitter-hashtag#readme",
+  "dependencies": {
+    "dedupe": "^2.1.0",
+    "jsonexport": "^2.0.11",
+    "twit": "^2.2.9"
+  }
+}

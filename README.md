@@ -34,7 +34,7 @@ Example command:
 node hashtag netflix
 ```
 
-The above command will pull names, usernames, bios, locations, Twitter account URLs and creates a JSON and CSV in the output directory for the hashtag.
+The above command will pull names, usernames, bios, locations, Twitter account URLs and creates a JSON and CSV in the `output` directory for the hashtag.
 
 
 ## Contributing
